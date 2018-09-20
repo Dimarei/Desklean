@@ -1,0 +1,178 @@
+D:\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\bin\Debug\Desklean.pdb
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\obj\Debug\Desklean.csprojResolveAssemblyReference.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\obj\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Visual Studio 2017\CSharp\Desklean\Desklean\obj\Debug\Desklean.pdb
+E:\Desklean\Desklean\bin\Debug\Desklean.exe.config
+E:\Desklean\Desklean\bin\Debug\Desklean.exe
+E:\Desklean\Desklean\bin\Debug\Desklean.pdb
+E:\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+E:\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+E:\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+E:\Desklean\Desklean\obj\Debug\Desklean.exe
+E:\Desklean\Desklean\obj\Debug\Desklean.pdb
+D:\Desklean\Desklean\bin\Debug\Desklean.exe.config
+D:\Desklean\Desklean\obj\Debug\Desklean.exe
+D:\Desklean\Desklean\obj\Debug\Desklean.pdb
+D:\Desklean\Desklean\bin\Debug\Desklean.exe
+D:\Desklean\Desklean\bin\Debug\Desklean.pdb
+D:\Desklean\Desklean\obj\Debug\Desklean.csprojResolveAssemblyReference.cache
+D:\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+D:\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+D:\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.Cache
+E:\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+E:\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe.config
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\bin\Debug\Desklean.pdb
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.csprojResolveAssemblyReference.cache
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.exe
+\\tsclient\KINGSTON\CSharp\Desklean\Desklean\obj\Debug\Desklean.pdb
+D:\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe
+D:\CSharp\Desklean\Desklean\bin\Debug\Desklean.pdb
+D:\CSharp\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.csprojResolveAssemblyReference.cache
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.exe
+D:\CSharp\Desklean\Desklean\obj\Debug\Desklean.pdb
+D:\CSharp\Desklean\Desklean\bin\Debug\NLog.dll
+D:\CSharp\Desklean\Desklean\bin\Debug\NLog.xml
+D:\CSharp\Desklean\Desklean\bin\Debug\NLog.config
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\NLog.config
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\Desklean.pdb
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\NLog.dll
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\bin\Debug\NLog.xml
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.csprojResolveAssemblyReference.cache
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\CSharp\Desklean\Desklean\obj\Debug\Desklean.pdb
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.csprojResolveAssemblyReference.cache
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.ucHome.resources
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.ucSettings.resources
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.exe
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.pdb
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\NLog.config
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\Desklean.exe
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\Desklean.pdb
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\NLog.dll
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Videos\Desklean\Desklean\bin\Debug\NLog.xml
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.ucHelp.resources
+C:\Users\User\Videos\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+E:\Desklean\Desklean\bin\Debug\NLog.config
+E:\Desklean\Desklean\bin\Debug\NLog.dll
+E:\Desklean\Desklean\bin\Debug\NLog.xml
+E:\Desklean\Desklean\obj\Debug\Desklean.ucHelp.resources
+E:\Desklean\Desklean\obj\Debug\Desklean.ucHome.resources
+E:\Desklean\Desklean\obj\Debug\Desklean.ucSettings.resources
+E:\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+E:\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+E:\Desklean\Desklean\obj\Debug\Desklean.csprojResolveAssemblyReference.cache
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\NLog.config
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\Desklean.pdb
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\NLog.dll
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmytro\Documents\Desklean\Desklean\bin\Debug\NLog.xml
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.csprojAssemblyReference.cache
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.ucHelp.resources
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.ucHome.resources
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.ucSettings.resources
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Desklean\Desklean\obj\Debug\Desklean.pdb
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\NLog.config
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\Desklean.pdb
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\NLog.dll
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\bin\Debug\NLog.xml
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.csprojAssemblyReference.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.ucHelp.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.ucHome.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.ucSettings.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Visual Studio 2017\Desklean\Desklean\obj\Debug\Desklean.pdb
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.csprojAssemblyReference.cache
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.ucHelp.resources
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.ucHome.resources
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.ucSettings.resources
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.exe
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.pdb
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\NLog.config
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\Desklean.exe
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\Desklean.pdb
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\NLog.dll
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\bin\Debug\NLog.xml
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Dropbox\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\NLog.config
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\Desklean.exe.config
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\Desklean.pdb
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\NLog.dll
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\bin\Debug\NLog.xml
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.csprojAssemblyReference.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.MainForm.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.Properties.Resources.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.ucHelp.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.ucHome.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.ucSettings.resources
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.csproj.GenerateResource.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.csproj.CopyComplete
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.exe
+C:\Users\Dmytro\Documents\Visual Studio 2017\Projects\Desklean\Desklean\obj\Debug\Desklean.pdb
